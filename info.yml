@@ -6,7 +6,7 @@ unit: unit1
 
 section: other
 
-type: Lesson
+type: lesson
 
 
 # optional fields:
