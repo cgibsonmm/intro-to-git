@@ -2,9 +2,9 @@
 
 # Required fields: unit, section and type
 
-unit: 1
+unit: unit1
 
-section: Git/Github
+section: other
 
 type: Lesson
 
