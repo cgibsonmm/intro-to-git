@@ -60,8 +60,6 @@ If you work by yourself, you don't really need remotes. However, we want to work
 
 The last time we saw the Mean Girls, Regina was kicked out. Let's now add Karen to take her place: 
 
--  NEW: create a new branch in the terminal
-
 -  create a `karen.txt` file and add:
 
 `"There's a 30% chance that it's already raining"`  
@@ -113,7 +111,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 # You do: Adding to Other's Stories
 
 Working with a partner, follow the example we just did and take turns: (Example names: Ruben & Leah)
--  Ruben should clone Leah's repo & create a new branch in the terminal
+-  Ruben should fork and clone Leah's repo
 -  Add your-name.txt and add your "catchphrase" to the text inside
 -  Ruben should create a pull request
 -  Leah  should accept this pull request and merge it into her GitHub repo
